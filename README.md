@@ -6,9 +6,7 @@
 Purpose of this script to help Exchange administrators with the process of resetting Exchange 2013 and 2016 Health Mailboxes.
 For more details, please see this post:
 
-https://blogs.technet.microsoft.com/rmilne/2016/06/16/script-to-automate-exchange-health-manager-service-for-monitoring-mailbox-reset/
-
-  
+https://blog.rmilne.ca/2016/06/16/script-to-automate-exchange-health-manager-service-for-monitoring-mailbox-reset/
 
 There is logic to loop through multiple Exchange servers. A filter will be used to exclude non Exchange 2013 servers in the default configuration. 
 
