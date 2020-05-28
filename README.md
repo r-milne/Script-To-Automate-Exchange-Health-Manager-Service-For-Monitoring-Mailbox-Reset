@@ -14,7 +14,7 @@ There is logic to loop through multiple Exchange servers. A filter will be used 
 
 Filters can be adjusted to suit the particular task that is required.  There are multiple    filtering examples here:
 
-                http://blogs.technet.com/b/rmilne/archive/2014/03/24/powershell-filtering-examples.aspx
+                https://blog.rmilne.ca/2014/03/24/exchange-powershell-filtering-examples/
 
  
 
